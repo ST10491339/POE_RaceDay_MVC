@@ -23,7 +23,7 @@ Main Features
 * Manage event categories, including age and distance categories.
 * View participants enrolled in specific events.
 * View enrolment statuses.
-* Capture participants’ finishing times and positions.
+* Capture participants finishing times and positions.
 * Upload event banner images.
 
 1. Participant Interface
