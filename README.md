@@ -54,7 +54,7 @@ The RaceDay MVC application communicates with the Part 2 API to retrieve and man
 
 The MVC application does not directly access the database. All data operations are handled through the Part 2 API.
 
-The application follows the Model-View-Controller (MVC) architecture:
+The application follows the Model-View-Controller MVC architecture:
 
 * Models: Represent application data.
 * Views: Display the user interface.
