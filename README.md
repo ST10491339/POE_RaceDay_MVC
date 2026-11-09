@@ -100,17 +100,15 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-
-
 Error Handling and User Interface
 
 The application provides a consistent interface across its pages.
 
-* Navigation is based on user roles.
-* Enrolment statuses are displayed using different colours.
-* Invalid inputs are handled appropriately.
-* The interface uses consistent fonts, colours and spacing.
-* Bootstrap is used to support responsive layouts.
+* Navigation is based on user roles
+* Enrolment statuses are displayed using different colours
+* Invalid inputs are handled appropriately
+* The interface uses consistent fonts, colours and spacing
+* Bootstrap is used to support responsive layouts
 
 Conclusion
 
