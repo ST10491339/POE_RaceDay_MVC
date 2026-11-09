@@ -77,7 +77,7 @@ Requirements
 * Access to the Part 2 API.
 * SQL Server and required database configuration for the API.
 
-Steps
+Steps of project
 
 1. Clone or download the GitHub repository.
 2. Open the MVC project in Visual Studio.
