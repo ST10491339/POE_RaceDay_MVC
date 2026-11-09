@@ -70,7 +70,7 @@ The MVC application sends image uploads to the Part 2 API. The API handles the s
 
 How to Run the Application 
 
-Requirements
+Requirement
 
 * Visual Studio 2022 or compatible development environment.
 * .NET SDK required by the project.
